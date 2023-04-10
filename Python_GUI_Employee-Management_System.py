@@ -1,3 +1,4 @@
+# Written by Emin Ayyıldız
 import tkinter as tk
 
 
